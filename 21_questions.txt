@@ -2,12 +2,12 @@
         21 QUESTIONS - GAME SHEET
 ==========================================
 
-PLAYER (the one asking questions): _____________________ 
-HOST   (the one with the secret):  _____________________
-DATE:                              _____________________
+PLAYER (the one asking questions): Samantha_____________________ 
+HOST   (the one with the secret):  Ligia_____________________
+DATE:     06/02/2026                         _____________________
 
 
-SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
+SECRET CATEGORY (host fills in): [X] Person  [ ] Place  [ ] Thing  [ ] Animal
 
 
 ------------------------------------------
@@ -15,7 +15,7 @@ SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
 ------------------------------------------
 Write your yes/no question on each line, then check the host's answer.
 
- 1. A: [ ] Yes  [ ] No   Q: Is it a person?
+ 1. A: [X] Yes  [ ] No   Q: Is it a person?
  2. A: [ ] Yes  [ ] No   Q: 
  3. A: [ ] Yes  [ ] No   Q: 
  4. A: [ ] Yes  [ ] No   Q: 
