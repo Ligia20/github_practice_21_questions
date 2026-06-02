@@ -2,9 +2,9 @@
         21 QUESTIONS - GAME SHEET
 ==========================================
 
-PLAYER (the one asking questions): ____________________
-HOST   (the one with the secret):  ____________________
-DATE:                              ____________________
+PLAYER (the one asking questions): _____________________ 
+HOST   (the one with the secret):  _____________________
+DATE:                              _____________________
 
 
 SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
@@ -15,7 +15,7 @@ SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
 ------------------------------------------
 Write your yes/no question on each line, then check the host's answer.
 
- 1. A: [ ] Yes  [ ] No   Q: 
+ 1. A: [ ] Yes  [ ] No   Q: Is it a person?
  2. A: [ ] Yes  [ ] No   Q: 
  3. A: [ ] Yes  [ ] No   Q: 
  4. A: [ ] Yes  [ ] No   Q: 
